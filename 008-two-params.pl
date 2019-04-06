@@ -1,0 +1,4 @@
+use v5.10;
+
+say('Hello, ', 'World!');
+say ('Hello, ', 'World!');
